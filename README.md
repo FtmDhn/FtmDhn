@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatemeh Dehghani</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ftmdhn" alt="ftmdhn" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/FtmDhn](https://github.com/FtmDhn)
 
 - 💬 Ask me about **React,Javascript,BootStrap,Css3,Html5**
