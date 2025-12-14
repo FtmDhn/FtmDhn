@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fatemeh-dehghani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatemeh-dehghani" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/fatemeh-dehghani](https://ir.linkedin.com/in/fatemeh-dehghani-060973314?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatemeh-dehghani" height="30" width="40" /></a>
 <a href="https://instagram.com/ftm.dehgni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ftm.dehgni" height="30" width="40" /></a>
 </p>
 
