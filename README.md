@@ -31,7 +31,7 @@
 <br>
 
 <div align="center" >
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=FtmDhn" alt="Top Langs" style="width: 25%; margin-right: 25px;" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FtmDhn&" alt="FtmDhn" style="width: 45%;" />
+  <<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=FtmDhn&theme=dark" alt="Top Langs Dark" style="width: 25%; margin-right: 25px;" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FtmDhn&theme=dark" alt="FtmDhn Dark" style="width: 45%;" />
 </div>
 
