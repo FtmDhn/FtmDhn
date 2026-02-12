@@ -12,7 +12,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=FtmDhn&color=0e75b6&style=flat)
 
 
- 🌱 I'm currently learning **I’m currently learning JavaScript and React, and improving my frontend skills.**
+ 🌱 I'm currently learning **JavaScript and React, and improving my frontend skills.**
 
  💬 Ask me about ** Ask me about React,Javascript,BootStrap,Css3,Html5**
 
