@@ -14,7 +14,7 @@
 
  🌱 I'm currently learning **JavaScript and React, and improving my frontend skills.**
 
- 💬 Ask me about **Ask me about React,Javascript,BootStrap,Css3,Html5**
+ 💬 Ask me about **React,Javascript,BootStrap,Css3,Html5**
 
  📫 How to reach me **ftm.dhgni@gmail.com**
 
