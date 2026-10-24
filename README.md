@@ -22,7 +22,7 @@
 
   <br /><br />
 
-  <img src="https://komarev.com/ghpvc/?username=FtmDhn&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=FtmDhn.FtmDhn&left_color=gray&right_color=8B5CF6&left_text=Profile%20Views" alt="Profile views" />
 
 </div>
 
