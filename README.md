@@ -1,37 +1,146 @@
 <div align="center">
-  <img width="100%" alt="github-header-banner" src="https://github.com/user-attachments/assets/3108a08c-1220-4172-9ec6-fc8672216313" />
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fatemeh%20Dehghani&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Front-End%20Developer%20%C2%B7%20UI%20Enthusiast%20%C2%B7%20Lifelong%20Learner&descSize=16&descAlignY=58" alt="Header" />
+
+  <br />
+
+  <a href="https://github.com/FtmDhn">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Turning+ideas+into+interactive+experiences;Learn.+Build.+Refine.+Repeat.;Pixel-perfect+%26+accessible+by+default;Currently+leveling+up+with+React+%E2%9A%9B%EF%B8%8F" alt="Typing animation" />
+  </a>
+
+  <br /><br />
+
+  <a href="mailto:ftm.dhgni@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/FtmDhn">
+    <img src="https://img.shields.io/badge/GitHub-FtmDhn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/ftm.dehgni">
+    <img src="https://img.shields.io/badge/Instagram-Follow-DB2777?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <br /><br />
+
+  <img src="https://komarev.com/ghpvc/?username=FtmDhn&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
+
+<br />
+
+---
+
+<br />
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```javascript
+const fatemeh = {
+  role: "Front-End Developer",
+  education: "Computer Engineering",
+  focus: ["Responsive UI", "JavaScript", "API Integration"],
+  currentlyLearning: ["React"],
+  mindset: "Learn. Build. Refine. Repeat.",
+  goal: "Useful, intuitive & accessible web experiences."
+};
+```
+
+</td>
+<td width="45%" valign="top">
+
+I'm a **Computer Engineering graduate** who loves turning ideas into
+clean, functional interfaces.
+
+I'm curious about how things work behind the scenes, I solve problems
+through code, and I keep refining the way I build for the web.
+
+Right now I'm going deeper into **React** and building projects that
+push me to grow. 🌱
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<br />
+
+```text
+┌──────────────────────────────────────────────────────┐
+│  $ status --now                                      │
+│                                                      │
+│  [01]  LEARNING     →  React & component thinking    │
+│  [02]  BUILDING     →  Maintainable front-end apps   │
+│  [03]  POLISHING    →  Responsive UI & accessibility │
+│  [04]  EXPLORING    →  Advanced JS & API patterns    │
+│                                                      │
+│  $ _                                                 │
+└──────────────────────────────────────────────────────┘
+```
+
+<br />
+
+<br />
 
 <div align="center">
 
-# Hi 👋, I'm Fatemeh Dehghani
+**Front-End**
 
-### Junior developer
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,sass&theme=dark" alt="Front-end technologies" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=FtmDhn&color=0e75b6&style=flat)
+<br /><br />
 
+**Tools & Workflow**
 
- 🌱 Junior Front-End Developer | HTML • CSS • Tailwind CSS • JavaScript
- I'm currently learning **JavaScript and React, and improving my frontend skills.**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Development tools" />
 
-
- 📫 How to reach me **ftm.dhgni@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://github.com/FtmDhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="FtmDhn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Fatemeh Dehghani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fatemeh Dehghani" height="30" width="40" /></a>
-<a href="https://instagram.com/ftm.dehgni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ftm.dehgni" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
-
-<br>
-
-<div align="center" >
-  <<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=FtmDhn&theme=dark" alt="Top Langs Dark" style="width: 25%; margin-right: 25px;" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FtmDhn&theme=dark" alt="FtmDhn Dark" style="width: 45%;" />
 </div>
 
+
+<br />
+
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FtmDhn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=FtmDhn&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="Contribution Streak" />
+
+  <br /><br />
+
+<img src="https://ghchart.rshah.org/8B5CF6/FtmDhn" alt="Contribution chart" width="98%" />
+
+</div>
+
+<br />
+
+
+<br />
+
+## What's Next
+
+- [ ] Go deeper into **React** and build complete, maintainable apps
+- [ ] Level up **responsive design** and **accessibility**
+- [ ] Explore advanced **JavaScript patterns** and API workflows
+- [ ] Ship more real-world projects, and keep them polished
+
+<br />
+
+---
+
+<div align="center">
+
+  <h3>Thanks for stopping by ✨</h3>
+
+  <p>
+    <i>Always learning. Always building. Always moving forward.</i>
+  </p>
+
+  <a href="mailto:ftm.dhgni@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Connect-8B5CF6?style=for-the-badge&logo=maildotru&logoColor=white" alt="Let's connect" />
+  </a>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer" />
+
+</div>
